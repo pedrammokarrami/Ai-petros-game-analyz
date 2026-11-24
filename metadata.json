@@ -1,0 +1,6 @@
+{
+  "name": "Unified Tactical & Motion Stage",
+  "description": "A minimalist VisionOS-style single-page tactical motion-graphics stage driven by structured JSON commands across Football, Basketball, Weapon Loadout, and Tactical Map modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
